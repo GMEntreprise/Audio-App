@@ -4,7 +4,7 @@ Il s'agit d'un projet [Next.js](https://nextjs.org/) démarré avec [`create-nex
 
 ## Getting Started
 
-First, run the development server:
+Tout d'abord, lancez le serveur de développement :
 
 ```bash
 pnpm run dev
