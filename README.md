@@ -21,7 +21,7 @@ Vous pouvez commencer à éditer la page en modifiant `pages/index.tsx`. La page
 Le répertoire `pages/api` est mappé à `/api/*`. Les fichiers dans ce répertoire sont traités comme des [API routes](https://nextjs.org/docs/api-routes/introduction) au lieu de pages React.
 
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
+
 
 ## En savoir plus
 
@@ -33,7 +33,6 @@ Pour en savoir plus sur Next.js, jetez un coup d'œil aux ressources suivantes :
 Vous pouvez consulter [le dépôt Next.js GitHub](https://github.com/vercel/next.js/) - vos commentaires et contributions sont les bienvenus !
 
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
 
 ## Déployer sur Vercel
 
