@@ -12,13 +12,16 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ouvrez [http://localhost:3000](http://localhost:3000) avec votre navigateur pour voir le résultat.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Vous pouvez commencer à éditer la page en modifiant `pages/index.tsx`. La page se met à jour automatiquement au fur et à mesure que vous modifiez le fichier.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+[API routes](https://nextjs.org/docs/api-routes/introduction) est accessible sur [http://localhost:3000/api/hello](http://localhost:3000/api/hello). Ce point d'accès peut être édité dans `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Le répertoire `pages/api` est mappé à `/api/*`. Les fichiers dans ce répertoire sont traités comme des [API routes](https://nextjs.org/docs/api-routes/introduction) au lieu de pages React.
+
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 ## En savoir plus
 
